@@ -1,0 +1,13 @@
+# ninja log v5
+38	1234	7223604603628065	CMakeFiles/proj_casaSimu.dir/cpp/Habitacao.cpp.obj	fe9f120e99fe2cd2
+22	1245	7223604603707864	CMakeFiles/proj_casaSimu.dir/main.cpp.obj	69a50bd1deb3c032
+1204	2216	7223604613459468	CMakeFiles/proj_casaSimu.dir/cpp/Regra.cpp.obj	6e310f357482f7d
+50	1324	7223604604437262	CMakeFiles/proj_casaSimu.dir/cpp/Aparelho.cpp.obj	171c94ace2f31321
+2536	2758	7223604618935925	proj_casaSimu.exe	49f54004dee6482b
+7	1203	7223604603356318	CMakeFiles/proj_casaSimu.dir/cpp/Sensor.cpp.obj	773336d121b4e1a9
+15	1414	7223604605394445	CMakeFiles/proj_casaSimu.dir/cpp/Processador.cpp.obj	af79532e1b1b9a84
+1245	2100	7223604612403900	CMakeFiles/proj_casaSimu.dir/cpp/Propriedade.cpp.obj	65395d403ad3e06f
+1325	2536	7223604616769581	CMakeFiles/proj_casaSimu.dir/cpp/SimuUI.cpp.obj	3a46e308023c2e09
+29	1608	7223604607471378	CMakeFiles/proj_casaSimu.dir/cpp/Zona.cpp.obj	4e4381c64bf01669
+8	278	7223772108624349	build.ninja	72b0df251eabb838
+1234	2378	7223604615205999	CMakeFiles/proj_casaSimu.dir/Logica.cpp.obj	e106dfda0d67738e
