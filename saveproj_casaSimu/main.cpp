@@ -3,6 +3,8 @@
 
 int main() {
     cout << "TESTE DE GITBUG" << endl;
+    cout << "TESTE DE GITBUG" << endl;
+
     Logica logica = *new Logica();
     SimuUI simuUi = *new SimuUI(logica);
     simuUi.comeca();
